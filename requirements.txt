@@ -1,11 +1,5 @@
-flask>=3.0.0
-flask-cors>=4.0.0
-transformers>=4.43.0
-torch>=2.1.0
-openai-whisper>=20231117
-deep-translator>=1.11.4
-reportlab>=4.0.0
-moviepy>=1.0.3
-imageio-ffmpeg>=0.4.8
-pydrive2>=1.19.0
-numpy>=1.24.0,<2.0.0
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+openai>=1.0.0
